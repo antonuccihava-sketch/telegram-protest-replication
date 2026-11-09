@@ -12,8 +12,8 @@ Status key: **verified** = opened in the public web preview (t.me/s/...) and rea
 ### Tier A: mobilisation (core seeds)
 - @MappaDellaRivolta: verified 8 Nov 2026 (3.8K subscribers). Event map: assemblies, initiatives, marches.
 - @piazzepiene: verified 8 Nov 2026 (16,251 subscribers). Per-city announcements of the 30 Oct general strike, comments under posts.
-- @STOPRIARMO: to verify
-- @protestamodena: to verify
+- @STOPRIARMO: verified 9 Nov 2026 (664 subscribers). Anti-rearmament movement in Piedmont, meeting announcements
+- @protestamodena: verified 9 Nov 2026 (channel name "17 OTTOBRE MODENA", 27 subscribers). Local organising for the 17 October national demonstration.
 
 ### Tier B: political sides (to verify)
 - Radical right: @casapoundufficiale, @BloccoStudentescoNazionale, @forzanuovafn, @VoxNewsInfo
